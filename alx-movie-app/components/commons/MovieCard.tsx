@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 interface MovieCardProps {
@@ -19,3 +20,4 @@ const MovieCard = ({ title, image, year }: MovieCardProps) => {
 };
 
 export default MovieCard;
+
